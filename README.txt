@@ -1,9 +1,6 @@
 Bootstrap MyCart
 
-
-
 Table of contents
-
 -----------------
 
 * Introduction
@@ -20,9 +17,7 @@ seamlessly browse through the products.
 -----------------
 
 Technologies
-
 Project is created with:
-
 HTML 5
 CSS
 Bootstrap 4
@@ -33,7 +28,7 @@ Configuration
 
 No configuration required as this is simple booststrap project.
 
-----------------
+-----------------
 
 
 
