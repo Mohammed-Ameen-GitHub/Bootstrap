@@ -1,4 +1,6 @@
-Bootstrap MyCart
+Bootstrap MyCart
+
+
 
 Table of contents
 
@@ -31,6 +33,7 @@ Configuration
 
 No configuration required as this is simple booststrap project.
 
+----------------
 
 
 
